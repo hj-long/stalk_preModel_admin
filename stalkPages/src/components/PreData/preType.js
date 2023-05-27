@@ -1,0 +1,30 @@
+export default {
+    data1: [
+        {label: '原料TS', value: 'material_ts', type: true},
+        {label: '原料VS', value: 'material_vs', type: true},
+        {label: '碳（%）', value: 'carbon', type: true},
+        {label: '氢（%）', value: 'hydrogen', type: true},
+        {label: '氮（%）', value: 'nitrogen', type: true},
+        {label: '是否添加剂', value: 'is_add', type: false},
+        {label: '是否预处理', value: 'is_pre', type: false},
+        {label: '时间（天）', value: 'days', type: true},
+    ], 
+    data2: [
+        {label: '原料TS', value: 'material_ts', type: true},
+        {label: '原料VS', value: 'material_vs', type: true},
+        {label: '是否添加剂', value: 'is_add', type: false},
+        {label: '是否预处理', value: 'is_pre', type: false},
+        {label: '时间（天）', value: 'days', type: true},
+    ],
+    data3: [
+        {label: '原料TS', value: 'material_ts', type: true},
+        {label: '原料VS', value: 'material_vs', type: true},
+        {label: '碳（%）', value: 'carbon', type: true},
+        {label: '氢（%）', value: 'hydrogen', type: true},
+        {label: '氧（%）', value: 'oxygen', type: true},
+        {label: '氮（%）', value: 'nitrogen', type: true},
+        {label: '是否添加剂', value: 'is_add', type: false},
+        {label: '是否预处理', value: 'is_pre', type: false},
+        {label: '时间（天）', value: 'days', type: true},
+    ],
+}
