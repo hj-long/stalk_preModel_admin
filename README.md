@@ -20,6 +20,7 @@
 启动：拖动整个目录stalk_admin到vscode图标，打开后端项目，然后打开控制台命令行，
 
 输入：
+
 `python manage.py runserver` 
 
 ##### 前端：
