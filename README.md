@@ -2,7 +2,7 @@
 
 #### 使用说明
 
-1. 安装nodejs，版本大于16就可以了，[nodejs官网](https://nodejs.cn/)
+1. 安装 nodejs，版本大于16就可以了，[nodejs官网](https://nodejs.cn/)
 2. 安装 Python3
 
 ##### 后端：
